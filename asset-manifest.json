@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/monk-ai/static/css/main.f9abeb83.css",
+    "main.js": "/monk-ai/static/js/main.663bd0f4.js",
+    "static/js/453.e0b3d431.chunk.js": "/monk-ai/static/js/453.e0b3d431.chunk.js",
+    "static/media/monk-removebg-preview.png": "/monk-ai/static/media/monk-removebg-preview.04f40b4d538fe5345dc5.png",
+    "index.html": "/monk-ai/index.html",
+    "main.f9abeb83.css.map": "/monk-ai/static/css/main.f9abeb83.css.map",
+    "main.663bd0f4.js.map": "/monk-ai/static/js/main.663bd0f4.js.map",
+    "453.e0b3d431.chunk.js.map": "/monk-ai/static/js/453.e0b3d431.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9abeb83.css",
+    "static/js/main.663bd0f4.js"
+  ]
+}
